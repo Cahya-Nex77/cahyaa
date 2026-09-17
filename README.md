@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cahyaa</h1>
-<h3 align="center">Saya Seorang Mahasiswa yang sedang belajar depelovers</h3>
+<h3 align="center">Saya Seorang Mahasiswa yang sedang belajar development/Framework</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
